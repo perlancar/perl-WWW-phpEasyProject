@@ -173,3 +173,8 @@ Known arguments:
 =item * is_agreed => bool
 
 =back
+
+
+=head1 SEE ALSO
+
+L<http://www.phpeasyproject.com/>
